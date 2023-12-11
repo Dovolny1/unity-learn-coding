@@ -8,6 +8,7 @@ TagManager:
   - TargetCube
   - uiMessage
   - Projectile
+  - StartingCube
   layers:
   - Default
   - TransparentFX
